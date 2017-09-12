@@ -40,6 +40,7 @@ Download [Openframeworks](http://openframeworks.cc/) and install the appropriate
 
 [Easing.net](http://easings.net/)
 
+![gif](https://github.com/sonya-irsay/creativecode/blob/master/sanie_week01_02/sanie_assignment_2.gif "sanie")
 ![gif](https://github.com/baice963/Creative-Coding/blob/master/homework%232/gif_2.gif "ice")
 ![gif](https://github.com/djdasha/CC/blob/master/p5-easing-homework-4/%233.gif "dasha")
 ![gif](https://github.com/krismadden/creativecoding/blob/master/Week01/03.%20easing-non-linear-02-w-mouse-over-w-size/gif.gif "kris")
