@@ -33,3 +33,5 @@ Begin a shared research document that will chronicle your investigations over th
 ## Other Resources
 
 [Nature of Code: Oscillation](http://natureofcode.com/book/chapter-3-oscillation/)
+
+![gif](https://github.com/sonya-irsay/creativecode/blob/master/WEEK_02/3_character.gif "sanie")
